@@ -1,3 +1,3 @@
 # GSAP
 
-#mouse control
+# Mouse Control
